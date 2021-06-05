@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="tmr_ros1" pkg="tm_movit_control" type="tm5_700_move_group.py" respawn="false" output="screen">
+  </node>
+
+</launch>
